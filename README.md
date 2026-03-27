@@ -25,6 +25,7 @@ Part of the [RISC-V International Academic & Training SIG](https://lists.riscv.o
 |---|---|---|---|
 | pseudobingo | [pseudo.riscvthai.org](https://pseudo.riscvthai.org/) | pseudo vs. real instructions | live |
 | rvcbingo | [rvcbingo.riscvthai.org](https://rvcbingo.riscvthai.org/) | RVC compressed instructions | live |
+| jumpviz | [jumpviz.riscvthai.org](https://jumpviz.riscvthai.org/) | JAL/JALR control flow | live |
 
 ### In development
 
